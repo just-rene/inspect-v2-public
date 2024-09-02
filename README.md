@@ -28,6 +28,6 @@ extract important locations, persons, organisations and misc
 
 #### FOLLOW TOPIC
 cluster multiple topics to one umbrella term and track the sentiment over time
-![sentiment_by](./Screenshots/followed_topic.png)
-![sentiment_by](./Screenshots/followed_topic_2.png)
+![sentiment_by](./Screenshots/followed_topic.PNG)
+![sentiment_by](./Screenshots/followed_topic_2.PNG)
 
