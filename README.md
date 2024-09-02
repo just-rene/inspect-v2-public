@@ -5,7 +5,7 @@ INSPECT is a sentiment and NER extraction tool!
 1) inspect is designed for single user only, therefore the inputs are not validated
 2) if you want to deploy on a publicly accessible machine use prod mode, which protects your system with basic auth
 3) all webscrapper have been removed for legal reasons 
-4) this is a proof of concept and under full development
+4) under full development
 
 requirements: mysql_db, huggingface account,  
 
