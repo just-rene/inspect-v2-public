@@ -21,20 +21,20 @@ Note: you need to specifiy your datasource, huggingface_token and credetials in 
 ### Features
 
 #### EMOTION FILTER
-#### filter article by emotions
+filter article by emotions
 ![emotion_filter](./Screenshots/emotion_filter.png)
 
 
 #### SENTIMENT BY DAY
-#### track the overall sentiment by day
+track the overall sentiment by day
 ![sentiment_by](./Screenshots/sentiment_by_day.png)
 
 #### NER
-#### extract important locations, persons, organisations and misc 
+extract important locations, persons, organisations and misc 
 ![ner](./Screenshots/NER.png)
 
 #### FOLLOW TOPIC
-#### cluster multiple topics to one umbrella term and track the sentiment over time
+cluster multiple topics to one umbrella term and track the sentiment over time
 ![sentiment_by](./Screenshots/followed_topic.PNG)
 ![sentiment_by](./Screenshots/followed_topic_2.PNG)
 
