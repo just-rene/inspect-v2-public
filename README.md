@@ -1,4 +1,4 @@
-# inspect-public 
+# INSPECT 
 INSPECT is a sentiment and NER extraction tool!
 
 New Features:
