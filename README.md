@@ -2,11 +2,11 @@
 INSPECT is a sentiment and NER extraction tool!
 
 New Features:
-- completely new backend
-- Mysql got replaced by MongoDB,
-    -> because of the high amount of json data
-    -> fast computations via aggregations pipelines
-- Followed Topics are now tracked separately 
+* completely new backend
+* Mysql got replaced by MongoDB,
+    * because of the high amount of json data
+    * fast computations via aggregations pipelines
+* Followed Topics are now tracked separately 
 
 ### Preliminary remarks
 1) inspect is designed for single user only, therefore the inputs are not validated
